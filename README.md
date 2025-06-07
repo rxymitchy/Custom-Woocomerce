@@ -39,7 +39,7 @@ custom-woocommerce-additions/
 1. Clone or download the plugin into your `/wp-content/plugins/` directory:
 
    ```bash
-   git clone https://github.com/yourusername/custom-woocommerce-additions.git
+   git clone https://github.com/rxymitchy/Custom-Woocomerce.git
    ```
 
 2. Activate the plugin from the WordPress admin panel.
